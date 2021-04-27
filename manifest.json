@@ -1,41 +1,38 @@
 {
- "name": "App",
- "icons": [
-  {
-   "src": "https://1.bp.blogspot.com/-2ssUxVIv7ck/YIbIzCjvUyI/AAAAAAAAAwk/SK-b1_MyBL8Y9J_UMV3X-TMiVec3EZbNACLcBGAsYHQ/s36/android-icon-36x36.png",
-   "sizes": "36x36",
-   "type": "image\/png",
-   "density": "0.75"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-b1RnJtomYo4/YIbI43s0qBI/AAAAAAAAAwo/f87zNWr_eWwDqLoM8Vw_biMP4wO87_HcQCLcBGAsYHQ/s48/android-icon-48x48.png",
-   "sizes": "48x48",
-   "type": "image\/png",
-   "density": "1.0"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-scH2aitjDjk/YIbI9yNDLqI/AAAAAAAAAws/14YVXDNqX_8DW3KjZV-t9y2U5Ei04-EPwCLcBGAsYHQ/s72/android-icon-72x72.png",
-   "sizes": "72x72",
-   "type": "image\/png",
-   "density": "1.5"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-tDpoaNEMUkw/YIbJDEipFfI/AAAAAAAAAww/WErcASfZFxALsTauyrPTRq2qMYx2--hegCLcBGAsYHQ/s96/android-icon-96x96.png",
-   "sizes": "96x96",
-   "type": "image\/png",
-   "density": "2.0"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-B93SQZzix7o/YIbJYtOzoSI/AAAAAAAAAxE/a0yCnj-5Fi8fjDC_xmtqZOGgb1c-mFREgCLcBGAsYHQ/s144/android-icon-144x144.png",
-   "sizes": "144x144",
-   "type": "image\/png",
-   "density": "3.0"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-fOgMPc9gWKo/YIbLYPp4w8I/AAAAAAAAAxM/H5MOvr17oXUacVKi0kuiuzDOlqqdumGLwCLcBGAsYHQ/s0/android-icon-192x192.png",
-   "sizes": "192x192",
-   "type": "image\/png",
-   "density": "4.0"
-  }
- ]
+  "name": "Tutorapik",
+  "short_name": "Tutorapik",
+  "start_url": "https://www.tutorapik.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Tutorapik.com merupakan blog yang mengulas seputar tips dan tutorial masa kini.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-V9qHmLMOT78/YIgLf0up2dI/AAAAAAAAAxk/YwjUrRev0bod516nz6fm5uBScR62x6pvwCLcBGAsYHQ/s48/Favicon-Tutorapik.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-S21P3E7xFt0/YIgMtbS6ttI/AAAAAAAAAxs/3boD2-V8F34duNIwhVPixtKUXyPA93jfwCLcBGAsYHQ/s72/Favicon-Tutorapik.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-qmCkPxB2lMY/YIgNFAbeSfI/AAAAAAAAAx0/txHBNeuMAKEW00klctOawFJW0nmp-c1OwCLcBGAsYHQ/s96/Favicon-Tutorapik.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-ikFyGby0wkE/YIgNheTmCAI/AAAAAAAAAx8/eVb2pG__dPMwauT2xqe6NvpOXDuO9ZfTgCLcBGAsYHQ/s144/Favicon-Tutorapik.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-ai4gqz_pK2k/YIgU0l9gLsI/AAAAAAAAAyk/rr5tJ--PKcoa4Bg3zMgumIJKl3NBeccZQCLcBGAsYHQ/s168/Favicon-Tutorapik.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-5tnE_4M2nkc/YIgN4ftpPII/AAAAAAAAAyE/Ve3dhAJH_9w7VDGVmboPrGPCZsK3_U4rACLcBGAsYHQ/s192/Favicon-Tutorapik.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-WfeLTOsuXiQ/YIgOVra0JlI/AAAAAAAAAyM/AK6gKiah3cMJ59h_EtB-kGjQNFn6FoWqQCLcBGAsYHQ/s512/Favicon-Tutorapik.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
 }
